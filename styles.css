@@ -1,6 +1,15 @@
 .navigation {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace;
     font-weight: 700;
+    text-align: right;
     
 }
+
+.Heading {
+    color: Black;
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
